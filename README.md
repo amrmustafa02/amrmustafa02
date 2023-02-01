@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amrmust33458502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrmust33458502" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/amr-mustafa-58a80320b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amr-mustafa-58a80320b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amr-mustafa-58a80320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amr-mustafa-58a80320b" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amrmustafa60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amrmustafa60" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amrmustafa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrmustafa02" height="30" width="40" /></a>
 </p>
