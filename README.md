@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Mustafa</h1>
 <h3 align="center">A student at faculty of computer and artificial intelligence at Cairo university</h3>
 
-//- 🌱 I’m currently learning **Flutter development**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amrmust33458502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrmust33458502" height="30" width="40" /></a>
