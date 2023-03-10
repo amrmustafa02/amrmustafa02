@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Mustafa</h1>
 <h3 align="center">A student at faculty of computer and artificial intelligence at Cairo university</h3>
 
-- 🌱 I’m currently learning **Android development**
+//- 🌱 I’m currently learning **Flutter development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
